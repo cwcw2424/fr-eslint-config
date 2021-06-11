@@ -1,1 +1,3 @@
-# fr-eslint-config
+# eslint-config
+
+My custom eslint config.
